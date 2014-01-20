@@ -4,6 +4,7 @@ vagrant-puppet-openclinica
 Create an OpenClinica VM using vagrant and puppet.
 
 __Charles Crichton__, _Oxford University Nuffield Department of Medicine_
+
 __Grant Vallance__, _Oxford University Hospitals NHS Trust_
 
 Installation based upon: https://docs.openclinica.com/3.1/installation/installation-linux
